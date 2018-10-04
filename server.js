@@ -16,7 +16,7 @@ let ToDo = require("./models/todo");
 //mongodb://admin:node123@ds145415.mlab.com:45415/cursonode
 
 app.get('/', function(req, res) {
-    res.send('Hello World');
+    res.send('Hello World Cipop');
 });
 
 app.get('/todo', function(req, res) {
